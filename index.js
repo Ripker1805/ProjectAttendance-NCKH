@@ -14,3 +14,4 @@ login[0].addEventListener("submit", (event) => {
     })
     .catch(function (error) {});
 });
+console.log(this);
